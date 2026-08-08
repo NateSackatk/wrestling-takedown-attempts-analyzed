@@ -1,5 +1,3 @@
-# wrestling-takedown-attempts-analyzed
-Analyzes takedown success rates by technique, match period, and weight cut across my competitive wrestling matches.
 # Wrestling Match Analytics
 
 Analyzes takedown success rates by technique, match period, and weight cut across my competitive wrestling matches this past season.

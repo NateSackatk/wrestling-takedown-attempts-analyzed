@@ -11,8 +11,8 @@ I logged 21 matches, tracking match-level info (opponent, tournament, weight cut
 ## How to run it
 
 1. Install dependencies: `pip install pandas matplotlib`
-2. Make sure `matches.csv` and `takedown_attempts.csv` are in the same folder as `analyze.py`
-3. Run: `python analyze.py`
+2. Make sure `matches.csv` and `takedown_attempts.csv` are in the same folder as `analyze_v2.py`
+3. Run: `python analyze_v2.py`
 
 The script prints summary tables to the console and saves a chart (`wrestling_stats.png`).
 
